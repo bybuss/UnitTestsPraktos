@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnitTesting</string>
+    <string name="calculate_tip">Рассчет чаевых</string>
+    <string name="bill_amount">Сумма</string>
+    <string name="how_was_the_service">Проценты</string>
+    <string name="round_up_tip">Округлить?</string>
+    <string name="tip_amount">Сумма чаевых: %s</string>
+</resources>
