@@ -5,16 +5,16 @@ const val SCORE_INCREASE = 20
 
 val allWords: Set<String> =
     setOf(
-        "авто",
-        "танец",
-        "гитара",
-        "каньон",
-        "велосипед",
-        "компьютеры",
-        "путешествие",
-        "путеводитель",
-        "исследование",
-        "многогранность"
+        "at",
+        "sea",
+        "home",
+        "arise",
+        "banana",
+        "android",
+        "birthday",
+        "briefcase",
+        "motorcycle",
+        "cauliflower"
     )
 
 private val wordLengthMap: Map<Int, String> = allWords.associateBy({ it.length }, { it })
